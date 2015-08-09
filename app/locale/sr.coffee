@@ -41,138 +41,138 @@ module.exports = nativeDescription: "српски", englishDescription: "Serbian
 
   diplomat_suggestion:
     title: "Помози нам у превођењу CodeCombat-а!" # This shows up when a player switches to a non-English language using the language selector.
-    sub_heading: "WПотребне су нам твоје језичке способности."
+    sub_heading: "Потребне су нам твоје језичке способности."
     pitch_body: "Развијамо CodeCombat на енглеском, али већ имамо играче из целог света. Многи од њих желе да играју на српском јер не говоре енглески, па ако говориш оба, молимо те да размислиш о томе да нам помогнеш да преведемо CodeCombat сајт, као и све нивое на српски."
     missing_translations: "Док не преведемо све на српски видећеш све на енглеском, док српски не буде доступан."
     learn_more: "Информиши се више о Дипломатама"
     subscribe_as_diplomat: "Претплати се као Дипломата"
 
   play:
-#    play_as: "Play As" # Ladder page
-#    spectate: "Spectate" # Ladder page
-#    players: "players" # Hover over a level on /play
-#    hours_played: "hours played" # Hover over a level on /play
-#    items: "Items" # Tooltip on item shop button from /play
-#    unlock: "Unlock" # For purchasing items and heroes
-#    confirm: "Confirm"
-#    owned: "Owned" # For items you own
-#    locked: "Locked"
-#    purchasable: "Purchasable" # For a hero you unlocked but haven't purchased
-#    available: "Available"
-#    skills_granted: "Skills Granted" # Property documentation details
-#    heroes: "Heroes" # Tooltip on hero shop button from /play
-#    achievements: "Achievements" # Tooltip on achievement list button from /play
-#    account: "Account" # Tooltip on account button from /play
-#    settings: "Settings" # Tooltip on settings button from /play
-#    poll: "Poll" # Tooltip on poll button from /play
-#    next: "Next" # Go from choose hero to choose inventory before playing a level
-#    change_hero: "Change Hero" # Go back from choose inventory to choose hero
-#    choose_inventory: "Equip Items"
-#    buy_gems: "Buy Gems"
-#    subscription_required: "Subscription Required"
-#    anonymous: "Anonymous Player"
+#    play_as: "Играј као" # Ladder page
+#    spectate: "Посматрај" # Ladder page
+#    players: "Играчи" # Hover over a level on /play
+#    hours_played: "Одиграних часова" # Hover over a level on /play
+#    items: "Ставка" # Tooltip on item shop button from /play
+#    unlock: "Oткључај" # For purchasing items and heroes
+#    confirm: "Потврди"
+#    owned: "Поседујеш" # For items you own
+#    locked: "Закључано"
+#    purchasable: "Доступно ѕа куповину" # For a hero you unlocked but haven't purchased (It can't be said in one word in serbian)
+#    available: "Доступно"
+#    skills_granted: "Добијене Вестине" # Property documentation details
+#    heroes: "Хероји" # Tooltip on hero shop button from /play
+#    achievements: "Достигнућа" # Tooltip on achievement list button from /play
+#    account: "Налог" # Tooltip on account button from /play
+#    settings: "Подешавања" # Tooltip on settings button from /play
+#    poll: "Повуци" # Tooltip on poll button from /play
+#    next: "Следеће" # Go from choose hero to choose inventory before playing a level
+#    change_hero: "Промени Хероја" # Go back from choose inventory to choose hero
+#    choose_inventory: "Изабери ставку"
+#    buy_gems: "Купи Дијаманте"
+#    subscription_required :"Потребно је претплатити се"
+#    anonymous: "Анониман Играч"
     level_difficulty: "Тежина: "
     campaign_beginner: "Почетничка кампања"
-#    awaiting_levels_adventurer_prefix: "We release new levels every week."
-#    awaiting_levels_adventurer: "Sign up as an Adventurer"
-#    awaiting_levels_adventurer_suffix: "to be the first to play new levels."
-#    adjust_volume: "Adjust volume"
+#    awaiting_levels_adventurer_prefix: "Избацујемо нове нивое сваке неделље."
+#    awaiting_levels_adventurer: "Пријавите се као авантуриста"
+#    awaiting_levels_adventurer_suffix: "да би сте били први који играју нове нивое."
+#    adjust_volume: "Подеси јачину звука"
     campaign_multiplayer: "Арене за више играча"
     campaign_multiplayer_description: "... у којима кодираш 1 на 1 мечеве против осталих играча."
-#    campaign_old_multiplayer: "(Deprecated) Old Multiplayer Arenas"
-#    campaign_old_multiplayer_description: "Relics of a more civilized age. No simulations are run for these older, hero-less multiplayer arenas."
+#    campaign_old_multiplayer: "(Deprecated) Стара мултиплејер арена"
+#    campaign_old_multiplayer_description: "Мошти много цивилизованијег доба. Нема симулација за ове старије мултиплејер арене без хероја"
 
 #  share_progress_modal:
-#    blurb: "You’re making great progress! Tell your parent how much you've learned with CodeCombat."
-#    email_invalid: "Email address invalid."
-#    form_blurb: "Enter your parent's email below and we’ll show them!"
-#    form_label: "Email Address"
-#    placeholder: "email address"
-#    title: "Excellent Work, Apprentice"
+#    blurb: "Одлично напредујеш! Реци својим родитељима колико си напредовао уз CodeCombat."
+#    email_invalid: "Не важећа Е-mail адреса."
+#    form_blurb: "Унеси Е-mail својих родителја испод, да им покажемо!"
+#    form_label: "Email Адреса"
+#    placeholder: "email Адреса"
+#    title: "Одлично обављено, шегрте"
 
   login:
     sign_up: "Направи Налог"
     log_in: "Улогуј Се"
-#    logging_in: "Logging In"
+#    logging_in: "Улоговање"
     log_out: "Излогуј Се"
-#    forgot_password: "Forgot your password?"
-#    authenticate_gplus: "Authenticate G+"
-#    load_profile: "Load G+ Profile"
-#    finishing: "Finishing"
-#    sign_in_with_facebook: "Sign in with Facebook"
-#    sign_in_with_gplus: "Sign in with G+"
-#    signup_switch: "Want to create an account?"
+#    forgot_password: "Заборавио си лоѕинку?"
+#    authenticate_gplus: "Потврдите аутентичност G+"
+#    load_profile: "Учитај G+ Налог"
+#    finishing: "Завршавање"
+#    sign_in_with_facebook: "Улогујте се са Facebook-ом"
+#    sign_in_with_gplus: "Улогујте се са G+"
+#    signup_switch: "Желите да креирате налог?"
 
   signup:
     email_announcements: "Примај обавештења на мејл"
     creating: "Прављење налога..."
     sign_up: "Упиши се"
     log_in: "улогуј се са шифром"
-#    social_signup: "Or, you can sign up through Facebook or G+:"
-#    required: "You need to log in before you can go that way."
-#    login_switch: "Already have an account?"
+#    social_signup: "Или, можете да се улогујете преко Facebook-а или G+:"
+#    required: "Морате да се логујете пре него сто кренете тим путем."
+#    login_switch: "Већ имате налог?"
 
   recover:
     recover_account_title: "Поврати налог"
-#    send_password: "Send Recovery Password"
-#    recovery_sent: "Recovery email sent."
+#    send_password: "Пошаљи шифру повратка"
+#    recovery_sent: "E-mail опоравка послат."
 
 #  items:
-#    primary: "Primary"
-#    secondary: "Secondary"
-#    armor: "Armor"
-#    accessories: "Accessories"
-#    misc: "Misc"
-#    books: "Books"
+#    primary: "Примарни"
+#    secondary: "Секундарни"
+#    armor: "Оклоп"
+#    accessories: "Додаци"
+#    misc: "Разно"
+#    books: "Кнјиге"
 
   common:
-#    back: "Back" # When used as an action verb, like "Navigate backward"
-#    continue: "Continue" # When used as an action verb, like "Continue forward"
+#    back: "Назад" # When used as an action verb, like "Кретање уназад"
+#    continue: "Настави" # When used as an action verb, like "Настави напред"
     loading: "Учитавање"
     saving: "Чување..."
     sending: "Шаље се..."
-#    send: "Send"
+#    send: "Пошаљи"
     cancel: "Откажи"
-#    save: "Save"
-#    publish: "Publish"
-#    create: "Create"
+#    save: "Сачувај"
+#    publish: "Објави
+#    create: "Креирај"
     manual: "Упутство"
-#    fork: "Fork"
-    play: "Нивои" # When used as an action verb, like "Play next level"
-#    retry: "Retry"
-#    actions: "Actions"
+#    fork: "Виљуска"
+    play: "Нивои" # When used as an action verb, like "Играј следећи ниво"
+#    retry: "Покушај поново"
+#    actions: "Акције"
 #    info: "Info"
-#    help: "Help"
-#    watch: "Watch"
-#    unwatch: "Unwatch"
-#    submit_patch: "Submit Patch"
-#    submit_changes: "Submit Changes"
-#    save_changes: "Save Changes"
+#    help: "Помоћ"
+#    watch: "Гледај"
+#    unwatch: "Не гледај" # or "Престани да гледаш" (Wich means stop watching)
+#    submit_patch: "Поднеси додатак"
+#    submit_changes: "Поднеси промене"
+#    save_changes: "Сачувај промене"
 
   general:
-#    and: "and"
+#    and: "и"
     name: "Име"
-#    date: "Date"
-#    body: "Body"
-#    version: "Version"
+#    date: "датум"
+#    body: "Тело"
+#    version: "Верзија"
 #    pending: "Pending"
-#    accepted: "Accepted"
-#    rejected: "Rejected"
-#    withdrawn: "Withdrawn"
-#    submitter: "Submitter"
-#    submitted: "Submitted"
-#    commit_msg: "Commit Message"
-#    review: "Review"
-#    version_history: "Version History"
-#    version_history_for: "Version History for: "
-#    select_changes: "Select two changes below to see the difference."
-#    undo_prefix: "Undo"
-#    undo_shortcut: "(Ctrl+Z)"
+#    accepted: "Прихваћено"
+#    rejected: "Одбијено"
+#    withdrawn: "Повучен"
+#    submitter: "Подносилац"
+#    submitted: "Поднешено"
+#    commit_msg: "Изврси поруку"
+#    review: "Преглед"
+#    version_history: "Историја верзија"
+#    version_history_for: "Историја верзија за: "
+#    select_changes: "Изабери два подешавања одоздо да би видео промене."
+#    undo_prefix: "Назад"
+#    undo_shortcut: "Пречица за назад (Ctrl+Z)"
 #    redo_prefix: "Redo"
 #    redo_shortcut: "(Ctrl+Shift+Z)"
-#    play_preview: "Play preview of current level"
-#    result: "Result"
-#    results: "Results"
+#    play_preview: "Пусти приказ тренутног нивоа"
+#    result: "Резултат"
+#    results: "Резултати"
 #    description: "Description"
     or: "или"
 #    subject: "Subject"
